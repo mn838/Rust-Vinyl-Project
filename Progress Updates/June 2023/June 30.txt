@@ -30,3 +30,5 @@ Install Python
 
 Install C/C++ Compiler
     sudo apt instal gcc g++
+
+https://github.com/mn838/Rust-Vinyl-Project.git
