@@ -1,0 +1,5 @@
+June 29th, 2024
+
+Realized I needed a Pi fan, micro HDMi to HDMI, and power cable for my Raspberry Pi.
+Bought items and installed.
+First successful turn on.

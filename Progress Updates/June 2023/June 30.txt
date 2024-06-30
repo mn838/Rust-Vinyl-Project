@@ -1,0 +1,32 @@
+June 30th, 2024
+
+Realized I needed a keyboard to type in my password.
+Successful in getting one.
+
+Fixed font size of CLI text.
+    sudo dpkg-reconfigure console-setup
+    UTF-8, Guess Optimal Character set, Terminus, 16x32
+
+Had wrong keyboard input mode, was UK, changes to US
+    sudo dpkg-reconfigure locales
+        en_GB.UTF-8 -> en_US.UTF-8
+        reboot
+    sudo dpkg-reconfigure keyboard-configuration
+        USA PC101
+        reboot
+
+Install Git
+    sudo apt update
+    sudo apt install git
+
+Install Neovim
+    sudo apt-get install Neovim
+
+Install Rust
+    sudo apt-get install rustc
+
+Install Python
+    sudo apt install python3 idle3
+
+Install C/C++ Compiler
+    sudo apt instal gcc g++
