@@ -31,4 +31,5 @@ Install Python
 Install C/C++ Compiler
     sudo apt instal gcc g++
 
-https://github.com/mn838/Rust-Vinyl-Project.git
+Completed Chapter 1 Hello World of first book listed in README
+Updated in Learning Folders hello_world directory

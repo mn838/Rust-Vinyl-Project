@@ -1,0 +1,4 @@
+July 1st, 2024
+
+Completed Chapter 2 of first book listed in README
+Updated in Learning Folders guessing_game directory
