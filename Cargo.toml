@@ -1,5 +1,5 @@
 [package]
-name = "Rust-Vinyl-Project"
+name = "rust-vinyl-project"
 version = "0.1.0"
 edition = "2021"
 
